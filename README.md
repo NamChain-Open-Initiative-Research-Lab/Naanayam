@@ -7,5 +7,5 @@
 ## Naanayam - நம்Chain Cryptocurrency
 
 <p align="center">
-<img src="https://1.bp.blogspot.com/-l2BbbhEVUu4/X4XlWwjwxTI/AAAAAAAAAlI/czZdpRVUZfElF1g65kAUS-kG9rzan2c2gCLcBGAsYHQ/s794/NamChain_NCT_Naanayam.jpeg" width="200" align="center">
+<img src="https://1.bp.blogspot.com/-IR6w6-uwkh8/X4XlXI7zaPI/AAAAAAAAAlQ/laaKeHqXExIRxZaZIVP8Dy6Rj1cHlkb4gCLcBGAsYHQ/s997/NamChain_NCT_Naanayam_L.jpeg" width="100" align="center">
 </p>  
